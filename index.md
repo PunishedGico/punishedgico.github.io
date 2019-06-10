@@ -1,7 +1,7 @@
 ---
 layout: page
-title: My website
-subtitle: This is where I will tell my friends way too much about me
+title: Portfolio
+subtitle: Object Detection and Computer Vision using TensorFlow and OpenCV in Python
 use-site-title: true
 ---
 
