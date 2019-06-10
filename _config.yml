@@ -8,7 +8,7 @@ url: "https://username.github.io"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
-#url: "http://username.github.io/projectname"
+#url: "http://punishedgico.github.io/projectname"
 #baseurl: "/projectname"
 
 # Of course don't forget to change the username and projectname to YOUR username and project
@@ -72,10 +72,10 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "someone@example.com"
-  facebook: daattali
-  github: daattali
-  twitter: daattali
+  email: "mich065f@eal.edu.dk"
+# facebook: daattali
+  github: punishedgico
+# twitter: daattali
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
