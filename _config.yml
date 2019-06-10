@@ -25,7 +25,7 @@ description: Portfolio for 4th semester specialisation
 navbar-links:
   Project: "project"
   Blog: "blog"
-  GitHub🡕: "https://github.com/punishedgico"
+  GitHub🡕: "https://github.com/punishedgico/dm17-proj20"
   About Me: "aboutme"
 
 # Image to show in the navigation bar - image must be a square (width = height)
