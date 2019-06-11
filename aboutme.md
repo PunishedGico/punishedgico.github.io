@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Do I even want this?
+subtitle: 4th semester computer science student
 ---
 
 My name is Michael Johnsen. I am currently studying computer science.
